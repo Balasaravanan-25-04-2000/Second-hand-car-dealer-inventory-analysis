@@ -1,0 +1,1 @@
+This SQL code implementation analyzes Second hand car dealer inventory data, revealing key performance indicators and trends to offer actionable insights for improving future sales. The dataset is sourced from Kaggle, and MySQL is utilized for this solution.
